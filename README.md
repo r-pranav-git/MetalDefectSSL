@@ -173,14 +173,14 @@ The model will be evaluated using:
 
 ## Team Members
 
-- Pranav R
-- (Add other team members)
+- R Pranav(46) 
+- Patrick Davis Jerry(45)
 
 ---
 
 ## Guide
 
-(Add Faculty Guide Name)
+Prof. NADERA BEEVI S
 
 ---
 
